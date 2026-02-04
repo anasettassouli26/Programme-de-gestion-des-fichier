@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class Services {
-    private static String dossier = "C:\\Users\\hm\\3D Objects\\Desktop\\TEST";
+    private static String dossier = "C:\\Users\\hm\\3D Objects\\Desktop\\Gestion des fichier\\src\\gestionDesFichiers\\FOLDER";
     private static String file;
     private static Scanner sc = new Scanner(System.in);
 
